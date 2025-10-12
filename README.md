@@ -8,11 +8,14 @@ Each folder represents a specific topic (like Arrays, Strings, Linked Lists, etc
 
 ## 📂 Folder Structure
 
-DSA-Practice/
-├── Arrays/
-│ └──01_uniqueNumberInArray.cpp
-│
-└── README.md
+📂 DSA-Practice/
+ ├── Arrays/
+ │    ├── 01_uniqueNumberInArray.cpp
+ │    └── ...
+ ├── LinkedList/   ← coming soon
+ ├── Strings/      ← coming soon
+ └── README.md
+
 
 
 Each folder represents a topic, and each file inside it contains my practice problems for that topic.
