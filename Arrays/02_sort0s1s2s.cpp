@@ -1,3 +1,9 @@
+// Problem: Sort an array containing only 0s, 1s, and 2s
+// Platform: Custom / LeetCode-style
+// Approach: Counting occurrences of 0, 1, and 2, then overwriting the array
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 #include <iostream>
 using namespace std;
 
