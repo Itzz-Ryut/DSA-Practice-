@@ -1,3 +1,9 @@
+// Problem: Find the first duplicate element in an array
+// Platform: DSA Practice (Custom / LeetCode-style)
+// Approach: Hash Map — store frequency counts and return first repeating element
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 #include <iostream>
 #include <unordered_map>
 #include <vector>
